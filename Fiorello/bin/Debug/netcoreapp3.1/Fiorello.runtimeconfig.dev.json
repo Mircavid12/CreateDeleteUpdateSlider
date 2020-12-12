@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Power Electronics\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Power Electronics\\.nuget\\packages"
+    ]
+  }
+}
